@@ -41,8 +41,8 @@ Each folder contains well-structured C source code files for hands-on learning a
 ## Getting Started 🚀
 
 1. **Setup Development Environment:**  
-   - Use an IDE like STM32CubeIDE, Keil MDK, or Atollic TrueSTUDIO.  
-   - Ensure you have the STM32F4 HAL/LL libraries installed.
+   - Use an STM32CubeIDE IDE.
+   - Ensure you have the STM32F4 HAL libraries installed.
 
 2. **Connect Your STM32F407VGT6 Board:**  
    - Use a compatible STM32F407VGT6 development board or custom hardware.
